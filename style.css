@@ -87,4 +87,5 @@ footer li {
     color: white;
     font-weight: 500;
     cursor: pointer; 
+    list-style-type: none;
   }
